@@ -18,15 +18,15 @@
 }
 
 #logo{
-	font-family: Verdana, Arial;
-	font-size: 28px;
+	font-family: Segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 24px;
 	letter-spacing: 4px;
-	line-height: 75px;
+	line-height: 55px;
 	color: white;
 	text-align: center;
-	width: 385px;
-	height: 80px;
-	margin-bottom: 20px;
+	width: 389px;
+	height: 50px;
+	margin-bottom: 30px;
 	float: left;
 	text-transform: uppercase;
 }
@@ -37,9 +37,10 @@ body{
 #menu{
 	font-family: Helvetica, Arial;
 	background: #333;
-	width: 100%;
+	width: 65%;
 	text-transform: uppercase;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+	position: fixed;
 }
 
 #menu ul{
