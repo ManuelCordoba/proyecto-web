@@ -6,6 +6,7 @@
 .clearfix{
 	float: none;
 	clear: both;
+	
 }
 
 #global{
@@ -46,6 +47,14 @@ body{
 #menu ul{
 	line-height: 46px;
 	list-style: none;
+	
+}
+
+#slider{
+	margin-top: 50px;
+
+
+
 }
 
 #menu ul li{
